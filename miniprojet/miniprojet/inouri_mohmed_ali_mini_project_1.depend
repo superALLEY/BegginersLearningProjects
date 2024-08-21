@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1667935354 source:d:\asd1\miniprojet\inouri_mohmed_ali_mini_project_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

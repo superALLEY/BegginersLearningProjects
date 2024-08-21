@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1669737680 source:d:\asd1\miniprojet 2\hospitalproject\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<stdbool.h>
+
+1670521586 source:c:\users\moham\onedrive\bureau\asd1\miniprojet 2\hospitalproject\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<stdbool.h>
+

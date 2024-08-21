@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1671450140 source:c:\users\moham\onedrive\bureau\asd1\miniprojet3\miniprojet3_partie1_2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
